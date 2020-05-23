@@ -5,7 +5,7 @@ This repository contains resources for a Yale Daily News analysis of the Class o
 Ashley Qin and Daniel Kim, data analysts for the News, analyzed the data, extracted key data insights, and wrote a majority of the story.
 
 ## Data and Processing
-
+We obtained the data from a survey we sent out to the Class of 2020 consisting of 18 post-graduate-related questions (google doc with questions asked can be found [here](https://docs.google.com/document/d/1WeCXNHqUoPbkZAsoHZqtk6StX4t-Fxv2gp5JJ_zdeDA/edit?usp=sharing)).
 
 ## Visualization
 Tableau was used to create visualizations for the data.
