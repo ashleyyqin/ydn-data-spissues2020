@@ -7,7 +7,7 @@ Ashley Qin and Daniel Kim, data analysts for the News, analyzed the data, extrac
 ## Data and Processing
 We obtained the data from a survey we sent out to the Class of 2020 consisting of 18 post-graduate-related questions (google doc with questions asked can be found [here](https://docs.google.com/document/d/1WeCXNHqUoPbkZAsoHZqtk6StX4t-Fxv2gp5JJ_zdeDA/edit?usp=sharing)). Out of 1,386 seniors, 337 responded--a response rate of 24.2%.
 
-`YDN Senior Survey.csv` is the raw dataset, which you are free to use for your own exploration.
+`spissuesproj.Rmd` was the script used to clean and analyze the data. `YDN Senior Survey.csv` is the raw dataset, which you are free to use for your own exploration.
 
 ## Visualization
 Tableau was used to create visualizations for the data.
